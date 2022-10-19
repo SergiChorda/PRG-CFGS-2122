@@ -90,10 +90,10 @@
 10. Implementa una clase `Consumo`, la cual forma parte del "ordenador de a bordo" de un coche y tiene las siguientes características:
 
     - Atributos:
-       - kilometros.
-       - litros. Litros de combustible consumido.
-       - vmed. Velocidad media.
-       - pgas. Precio de la gasolina.
+       - kilometros.  Kilometros recorridos
+       - litros.      Litros de combustible consumido.
+       - vmed.        Velocidad media.
+       - pgas.        Precio de la gasolina.
     - Métodos:
        - `getTiempo`. Indicará el tiempo empleado en realizar el viaje.
        - `consumoMedio`. Consumo medio del vehículo (en litros cada 100 kilómetros).
@@ -104,7 +104,7 @@
 11. Para la clase anterior implementa los siguientes métodos, los cuales podrán modificar los valores de los atributos de la clase:
 
      - `setKms`
-     -  `setLitros`
+     - `setLitros`
      - `setVmed`
      - `setPgas`
 
@@ -208,8 +208,8 @@
     - `título`
     - `autor`
     - `editorial`
-    - `número de ejemplares totales`
-    - `número de prestados`
+    - `númeroEjemplaresTotales`
+    - `numeroPrestados`
 
     La clase contendrá los siguientes métodos:
 
